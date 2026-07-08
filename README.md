@@ -1,4 +1,4 @@
-#  Predictive Maintenance for Pumps (Shell Use-Case)
+#  Predictive Maintenance for Pumps 
 
 ##  Problem
 
